@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Akif/Younite-Internship/cpp-projects/younite_cpp_projects/arrays101.cpp
+inc/arrays101.h
+/mnt/d/Akif/Younite-Internship/cpp-projects/younite_cpp_projects/inc/arrays101.h
+
+/mnt/d/Akif/Younite-Internship/cpp-projects/younite_cpp_projects/inc/arrays101.h
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+cmath
+-
+
