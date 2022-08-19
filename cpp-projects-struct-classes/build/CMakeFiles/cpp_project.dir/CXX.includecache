@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Akif/Younite-Internship/cpp-projects/younite_cpp_projects/class.cpp
+class.h
+/mnt/d/Akif/Younite-Internship/cpp-projects/younite_cpp_projects/class.h
+
+/mnt/d/Akif/Younite-Internship/cpp-projects/younite_cpp_projects/inc/class.h
+iostream
+-
+

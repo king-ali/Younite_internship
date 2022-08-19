@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/d/Akif/Younite-Internship/cpp-projects/build",
+  "command": "c++   -I/. -I/mnt/d/Akif/Younite-Internship/cpp-projects/younite_cpp_projects/inc  -g   -std=gnu++14 -o CMakeFiles/cpp_project.dir/class.cpp.o -c /mnt/d/Akif/Younite-Internship/cpp-projects/younite_cpp_projects/class.cpp",
+  "file": "/mnt/d/Akif/Younite-Internship/cpp-projects/younite_cpp_projects/class.cpp"
+}
+]
