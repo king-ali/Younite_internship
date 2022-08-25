@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/d/Akif/Younite-Internship/CallQualityDashboard/build",
+  "command": "/usr/bin/g++   -I/. -I/mnt/d/Akif/Younite-Internship/CallQualityDashboard/inc  -g   -o CMakeFiles/CQD_DB.dir/main.cpp.o -c /mnt/d/Akif/Younite-Internship/CallQualityDashboard/main.cpp",
+  "file": "/mnt/d/Akif/Younite-Internship/CallQualityDashboard/main.cpp"
+}
+]

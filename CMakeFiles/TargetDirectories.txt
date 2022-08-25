@@ -1,0 +1,3 @@
+/mnt/d/Akif/Younite-Internship/CallQualityDashboard/CMakeFiles/rebuild_cache.dir
+/mnt/d/Akif/Younite-Internship/CallQualityDashboard/CMakeFiles/edit_cache.dir
+/mnt/d/Akif/Younite-Internship/CallQualityDashboard/CMakeFiles/CQD_DB.dir

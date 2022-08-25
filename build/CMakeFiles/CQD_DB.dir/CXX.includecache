@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Akif/Younite-Internship/CallQualityDashboard/inc/api.h
+database.h
+/mnt/d/Akif/Younite-Internship/CallQualityDashboard/inc/database.h
+
+/mnt/d/Akif/Younite-Internship/CallQualityDashboard/inc/database.h
+vector
+-
+string
+-
+iostream
+-
+
+/mnt/d/Akif/Younite-Internship/CallQualityDashboard/inc/tcp_local.h
+api.h
+/mnt/d/Akif/Younite-Internship/CallQualityDashboard/inc/api.h
+
+/mnt/d/Akif/Younite-Internship/CallQualityDashboard/main.cpp
+inc/tcp_local.h
+/mnt/d/Akif/Younite-Internship/CallQualityDashboard/inc/tcp_local.h
+
